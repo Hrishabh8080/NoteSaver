@@ -1,7 +1,7 @@
 # NoteSaver
 
 
-Link :- https://hrishabh8080.github.io/NoteSaver/
+
 
 
 This is an NoteSaver web project based on java or hibernate
